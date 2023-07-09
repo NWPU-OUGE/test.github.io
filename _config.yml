@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "test page V1.0" # site tagline that appears below site title in masthead
 name                     : "TANG TIANYANG"
 description              : "An amazing blog."
-url                      : "https://nwpu-ouge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/test.github.io/tree/main" # the subpath of your site, e.g. "/blog"
 repository               : "NWPU-OUGE/test.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/finfish_500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
