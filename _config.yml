@@ -21,11 +21,11 @@ title_separator          : "|"
 subtitle                 : "test page V1.0" # site tagline that appears below site title in masthead
 name                     : "TANG TIANYANG"
 description              : "An amazing blog."
-url                      : "https://github.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/test.github.io/tree/main" # the subpath of your site, e.g. "/blog"
+url                      :  # "https://github.com"the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # "/test.github.io/tree/main"the subpath of your site, e.g. "/blog"
 repository               :  #"NWPU-OUGE/test.github.io/" GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/finfish_500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo_100x100.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   :  #"/assets/images/finfish_500x300.jpg" path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     :  #  "/assets/images/logo_100x100.png"path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
